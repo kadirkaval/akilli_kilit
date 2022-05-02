@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917740822273",
+    "firebase_url": "https://akillikil-default-rtdb.firebaseio.com",
+    "project_id": "akillikil",
+    "storage_bucket": "akillikil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917740822273:android:08f346b6747abb97d8c500",
+        "android_client_info": {
+          "package_name": "com.example.akilli_kilit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917740822273-ei5ntfop6b0cl1cmnb7k0g4bigt9n81i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHUzypksjluSS6WaXhyPS5j8fh80kg_CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917740822273-ei5ntfop6b0cl1cmnb7k0g4bigt9n81i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
